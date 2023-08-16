@@ -12,7 +12,7 @@ This repo currently contains the starter files.
 Clone repo and create a virtual environment
 ```
 $ git clone https://github.com/Sakshamag21/chatbotflask
-$ cd chatbot-deployment
+$ cd chatbotflask
 $ python3 -m venv venv
 $ . venv/bin/activate
 ```
